@@ -1,3 +1,19 @@
+/* === Google Fonts === */
+.logoFont{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.odd{
+    font-weight: 100;
+}
+
+.even{
+    font-weight: bold;
+    font-size: large;
+}
+
 :root{
     --primary-color: #1d5888;
     --secondary-color: #FFEA7A;
